@@ -4,5 +4,6 @@ public class HiWord {
         for(int i = 0; i < 5; i++) {
             System.out.println(i + ". Что-то там!");
         }
+        System.out.println("Еще что то там");
     }
 }
